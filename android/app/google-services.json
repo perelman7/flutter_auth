@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275206901856",
+    "firebase_url": "https://prikup-app.firebaseio.com",
+    "project_id": "prikup-app",
+    "storage_bucket": "prikup-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275206901856:android:08c365ca78796eacc7b305",
+        "android_client_info": {
+          "package_name": "com.prikup.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275206901856-ghtm5morornh0qcnr8hblu6h5fb0e6t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prikup.flutter_auth",
+            "certificate_hash": "a79c89824dd7b8eefb473fd5d7174970ea2ce1ed"
+          }
+        },
+        {
+          "client_id": "275206901856-obodudap4vhfq9ag5f08347d35heegds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzzN2IRzDE-vZVwKw7a4YDfrjvNRu1zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275206901856-obodudap4vhfq9ag5f08347d35heegds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
