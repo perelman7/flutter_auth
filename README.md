@@ -17,6 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ###CREATE FIREBASE APP
+####tutorial https://blog.codemagic.io/firebase-authentication-google-sign-in-using-flutter/(https://github.com/sbis04/sign_in_flutter)
 
 1. Create project 
 2. Add android app
